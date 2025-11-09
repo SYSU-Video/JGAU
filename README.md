@@ -1,7 +1,7 @@
 # JGAU
 
 Deep Learning based Joint Geometry and Attribute Up-sampling for Large-Scale Colored Point Clouds\
-*IEEE Transactions on Image Processing (TIP), 2025* [paper](https://arxiv.org/abs/2506.22749)\
+*IEEE Transactions on Image Processing (TIP), 2025* [[paper]](https://arxiv.org/abs/2506.22749)\
 [Yun Zhang](https://codec.siat.ac.cn/yunzhang/), Feifan Chen, Na Li, Zhiwei Guo, Xu Wang, Fen Miao, [Sam Kwong](https://scholars.ln.edu.hk/en/persons/sam-tak-wu-kwong)
 
 ## Abstract
